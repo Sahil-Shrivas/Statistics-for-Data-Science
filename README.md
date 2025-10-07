@@ -14,23 +14,46 @@ A collection of Jupyter notebooks and resources covering statistical methods com
 
 ## 📖 Overview
 
-This repository aims to:
+This repository provides a curated collection of Jupyter notebooks and reference material illustrating core statistical techniques that are fundamental for data scientists. Whether you're learning statistical theory or applying it to real-world datasets, this repository offers both conceptual explanations and executable code.
 
-- Provide hands-on examples of core statistical techniques in Jupyter notebooks  
-- Serve as a learning resource or reference for students, data scientists, or enthusiasts  
-- Combine theory and practical code so users can directly experiment  
+Core topics covered include:
+
+- Hypothesis testing (Z-test, one-sample/paired t-test, two-sample t-test)  
+- Analysis of Variance (ANOVA)  
+- Chi-square tests for independence  
+- Outlier detection methods  
+- Interpretation guidelines for statistical results  
+
+The goal is to bridge statistical theory and practice—making these techniques accessible and reusable in data-driven projects.
+
+---  
 
 ## 🚀 Getting Started
 
 ### Prerequisites
 
+Ensure you have:
+
 - Python 3.x  
 - Jupyter Notebook or JupyterLab  
-- Common data science libraries (e.g. `numpy`, `pandas`, `scipy`, `statsmodels`, `matplotlib`, `seaborn`)  
+- The following Python libraries:  
+  ```text
+  numpy
+  pandas
+  scipy
+  statsmodels
+  matplotlib
+  seaborn  
 
 You can install required Python packages via:
 
 ```bash
 pip install numpy pandas scipy statsmodels matplotlib seaborn
 
+1. Clone the repository:
+  git clone https://github.com/Sahil-Shrivas/Statistics-for-Data-Science.git
+  cd Statistics-for-Data-Science
+
+2. Launch Jupyter:
+  jupyter notebook
 
