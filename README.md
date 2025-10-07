@@ -26,8 +26,6 @@ Core topics covered include:
 
 The goal is to bridge statistical theory and practice—making these techniques accessible and reusable in data-driven projects.
 
----  
-
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -56,4 +54,5 @@ pip install numpy pandas scipy statsmodels matplotlib seaborn
 
 2. Launch Jupyter:
   jupyter notebook
+
 
