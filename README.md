@@ -1,8 +1,8 @@
-# Statistics for Data Science
+# 📊 Statistics for Data Science
 
 A collection of Jupyter notebooks and resources covering statistical methods commonly used in data science workflows, including hypothesis testing, outlier detection, ANOVA, chi-square test, and more.
 
-# About 
+# 📖 About 
 
 - **ANNOVA_Test.ipynb** — experiments and explanations related to ANOVA (Analysis of Variance)  
 - **ChiSquare_Test.ipynb** — implementation and usage of chi-square test  
@@ -12,7 +12,7 @@ A collection of Jupyter notebooks and resources covering statistical methods com
 - **t_Test.ipynb** — one sample / paired t-test demonstrations  
 - **Statistics.pdf** — a static reference (e.g. summary notes)  
 
-## 📖 Overview
+## 📌 Overview
 
 This repository provides a curated collection of Jupyter notebooks and reference material illustrating core statistical techniques that are fundamental for data scientists. Whether you're learning statistical theory or applying it to real-world datasets, this repository offers both conceptual explanations and executable code.
 
@@ -54,5 +54,6 @@ pip install numpy pandas scipy statsmodels matplotlib seaborn
 
 2. Launch Jupyter:
   jupyter notebook
+
 
 
